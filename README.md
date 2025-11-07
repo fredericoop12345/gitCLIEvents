@@ -1,3 +1,4 @@
+This project was done on: https://roadmap.sh/projects/github-user-activity
 This project practises building a simple command-line interface for to fetch the recent activities of a github user.
 The following is the command to type to run it:
 -github-activity <username>
